@@ -20,6 +20,7 @@ Role: Frontend Developer & UI/UX Designer
 Focus: AI Products • SaaS Platforms • Modern Web Apps
 Currently Building:
   - Nexora AI
+  - Brew Haven Cafe Website
   - Startup Dashboards
   - Premium Portfolio Systems
 ```
@@ -56,6 +57,22 @@ A futuristic AI-powered productivity and workflow platform designed with premium
 
 <td width="50%">
 
+## 🔹 Brew Haven Cafe Website
+
+A cinematic luxury cafe website featuring immersive UI design, smooth scrolling animations, premium branding visuals, interactive menus, and modern customer-focused experiences.
+
+### Features
+- Premium Landing Page
+- Interactive Menu System
+- Smooth Animations
+- Fully Responsive UI
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ## 🔹 Variety Projects Platform
 
 A multi-category project showcase platform featuring AI systems, frontend experiments, UI concepts, dashboards, and startup-grade interfaces.
@@ -67,9 +84,7 @@ A multi-category project showcase platform featuring AI systems, frontend experi
 - Responsive Design
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ## 🔹 Personal Portfolio
@@ -83,7 +98,9 @@ High-end developer portfolio inspired by modern SaaS companies with immersive vi
 - Dark Mode Interface
 
 </td>
+</tr>
 
+<tr>
 <td width="50%">
 
 ## 🔹 AI Resume Screening System
@@ -95,6 +112,20 @@ Machine learning powered resume analysis platform with smart filtering, candidat
 - AI Ranking
 - Analytics Dashboard
 - Recruiter Workflow
+
+</td>
+
+<td width="50%">
+
+## 🔹 Appointment Booking Platform
+
+A modern scheduling platform for clinics, salons, trainers, and consultants with intuitive booking flows and startup-style dashboard interfaces.
+
+### Features
+- Smart Booking UI
+- Calendar Scheduling
+- Mobile Responsive Design
+- Analytics Dashboard
 
 </td>
 </tr>
@@ -145,3 +176,4 @@ Machine learning powered resume analysis platform with smart filtering, candidat
 ### 💻 Building startup-grade digital products with modern UI systems and AI-driven experiences.
 
 </div>
+
