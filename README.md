@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Aditya Anand</h1>
 
-<!--
-**anandaditya6626-debug/anandaditya6626-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Science & Design Student • UI/UX Enthusiast • Frontend Developer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Computer Science & Design Student
+- 💻 Passionate about Frontend Development
+- 🎨 Love futuristic UI/UX
+- 🌱 Currently learning JavaScript
+
+---
+
+## 🛠 Skills
+
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Figma
+
+---
+
+## 📌 Projects
+
+- HostelLink
+- Appointment Booking UI
+- Cinematic Portfolio
+
+---
+
+## 🌐 Connect
+
+GitHub:
+https://github.com/anandaditya6626-debug
