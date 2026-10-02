@@ -1,171 +1,67 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=240&section=header&text=Aditya%20Anand&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%203D%20Startup-Style%20UI%20Builder%20•%20AI%20Product%20Designer&descAlignY=58&descSize=18"/>
+# ADITYA ANAND
 
-</div>
+**Computer Science & Design Student · Developer · Security Enthusiast**
 
-<div align="center">
+Building practical tools, exploring systems, and learning how technology works under the hood.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Futuristic+Digital+Experiences;Creating+Premium+Startup-Style+Interfaces;Next.js+%7C+React+%7C+Tailwind+%7C+AI+Systems;Designing+Products+That+Feel+Modern"/>
-
-</div>
-
----
-
-# 🚀 About Me
-
-```yaml
-Name: Aditya Anand
-Role: Frontend Developer & UI/UX Designer
-Focus: AI Products • SaaS Platforms • Modern Web Apps
-Currently Building:
-  - Nexora AI
-  - Brew Haven Cafe Website
-  - Startup Dashboards
-  - Premium Portfolio Systems
-```
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,firebase,python,figma,git,github,vscode"/>
+[GitHub](https://github.com/anandaditya6626-debug) · [Portfolio](https://future-fs-01-livid-iota.vercel.app) · [Email](mailto:aditya07anand@gmail.com)
 
 </div>
 
 ---
 
-# 🧠 Featured Projects
+## `01 / ABOUT`
 
-<table>
-<tr>
-<td width="50%">
+> B.Tech CSD student at Dr. B. C. Roy Engineering College, India.
 
-## 🔹 Nexora AI
+Currently exploring **Cybersecurity, Data Analytics, and AI/ML Engineering**. Interested in building useful software, understanding systems, solving problems, and learning through hands-on projects.
 
-A futuristic AI-powered productivity and workflow platform designed with premium startup aesthetics, animated dashboards, smart analytics, and modern UI architecture.
+## `02 / CURRENT FOCUS`
 
-### Stack
-- Next.js
-- Tailwind CSS
-- Framer Motion
-- Firebase
+* Cybersecurity fundamentals, Linux, networking, and ethical hacking labs.
+* Python, SQL, and data analysis.
+* Machine learning and intelligent applications.
+* Building and improving developer tools.
 
-</td>
+## `03 / SELECTED PROJECTS`
 
-<td width="50%">
+**[Code Mentor](https://github.com/anandaditya6626-debug/CODEMENTOR)** · `Developer Tools`
 
-## 🔹 Brew Haven Cafe Website
+A code editor and compiler project focused on helping developers understand and fix coding mistakes.
 
-A cinematic luxury cafe website featuring immersive UI design, smooth scrolling animations, premium branding visuals, interactive menus, and modern customer-focused experiences.
+**[VeloraCRM](https://velora-frontend.vercel.app)** · `Full Stack`
 
-### Features
-- Premium Landing Page
-- Interactive Menu System
-- Smooth Animations
-- Fully Responsive UI
+A client lead management system designed to organize leads and track their progress.
 
-</td>
-</tr>
+**[Budget Buddy](https://budget-buddy-two-kappa.vercel.app)** · `Personal Finance
 
-<tr>
-<td width="50%">
+A budgeting application designed to help users plan expenses and manage their monthly salary.
 
-## 🔹 Variety Projects Platform
+**[Nexora](https://nexora-seven-sooty.vercel.app)** · `Web Development`
 
-A multi-category project showcase platform featuring AI systems, frontend experiments, UI concepts, dashboards, and startup-grade interfaces.
+A web project focused on modern UI and interactive experiences.
 
-### Features
-- Dynamic UI
-- Interactive Layouts
-- Modern Animations
-- Responsive Design
+**[AI Hand Detector](https://hand-detector-two.vercel.app)** · `AI / Computer Vision`
 
-</td>
+A browser-based project exploring hand detection using computer vision.
 
-<td width="50%">
+## `04 / TECHNOLOGIES`
 
-## 🔹 Personal Portfolio
+`C` · `Python` · `JavaScript` · `HTML` · `CSS` · `Git` · `GitHub`
 
-High-end developer portfolio inspired by modern SaaS companies with immersive visuals, smooth transitions, and premium UI/UX interactions.
+Currently expanding my skills in `Linux` · `Networking` · `SQL` · `Cybersecurity` · `Machine Learning`
 
-### Highlights
-- Animated Hero Section
-- Project Showcase
-- Responsive Design
-- Dark Mode Interface
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🔹 AI Resume Screening System
-
-Machine learning powered resume analysis platform with smart filtering, candidate ranking, and advanced UI dashboards.
-
-### Features
-- Resume Parsing
-- AI Ranking
-- Analytics Dashboard
-- Recruiter Workflow
-
-</td>
-
-<td width="50%">
-
-## 🔹 Appointment Booking Platform
-
-A modern scheduling platform for clinics, salons, trainers, and consultants with intuitive booking flows and startup-style dashboard interfaces.
-
-### Features
-- Smart Booking UI
-- Calendar Scheduling
-- Mobile Responsive Design
-- Analytics Dashboard
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GitHub Analytics
+## `05 / GITHUB STATS`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandaditya6626-debug&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anandaditya6626-debug&show_icons=true&hide_border=true&theme=transparent" width="49%" alt="GitHub statistics"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandaditya6626-debug&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandaditya6626-debug&layout=compact&hide_border=true&theme=transparent" width="49%" alt="Most used languages"/>
 
-</div>
-
----
-
-# 🔥 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandaditya6626-debug&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aditya-anand-953816289">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:adityaanand0717@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=anandaditya6626-debug&hide_border=true&theme=transparent" width="70%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -173,7 +69,6 @@ A modern scheduling platform for clinics, salons, trainers, and consultants with
 
 <div align="center">
 
-### 💻 Building startup-grade digital products with modern UI systems and AI-driven experiences.
+*Learning consistently. Building thoughtfully. Improving every day.*
 
 </div>
-
