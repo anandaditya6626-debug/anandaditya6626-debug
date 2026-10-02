@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Aditya Anand — Developer profile banner"/>
+<img src="banner.svg" width="100%" alt="Aditya Anand — Developer profile banner"/>
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="assets/about.svg" width="100%" alt="About me"/>
+<img src="about.svg" width="100%" alt="About me"/>
 
 ```text
 Aditya Anand / B.Tech Computer Science & Design
@@ -27,7 +27,7 @@ CURRENTLY EXPLORING
 [03] AI / ML Engineering — intelligent systems and computer vision
 ```
 
-<img src="assets/stack.svg" width="100%" alt="Tech stack"/>
+<img src="stack.svg" width="100%" alt="Tech stack"/>
 
 <div align="center">
 
@@ -42,7 +42,7 @@ CURRENTLY EXPLORING
 
 </div>
 
-<img src="assets/projects.svg" width="100%" alt="Selected projects"/>
+<img src="projects.svg" width="100%" alt="Selected projects"/>
 
 <table>
 <tr>
@@ -113,7 +113,7 @@ A custom portfolio built with vanilla HTML, CSS, and JavaScript.
 </tr>
 </table>
 
-<img src="assets/activity.svg" width="100%" alt="GitHub activity"/>
+<img src="activity.svg" width="100%" alt="GitHub activity"/>
 
 <div align="center">
 
@@ -130,7 +130,7 @@ A custom portfolio built with vanilla HTML, CSS, and JavaScript.
 
 </div>
 
-<img src="assets/now.svg" width="100%" alt="What I'm working toward"/>
+<img src="now.svg" width="100%" alt="What I'm working toward"/>
 
 ```text
 > learn the fundamentals
@@ -145,6 +145,6 @@ A custom portfolio built with vanilla HTML, CSS, and JavaScript.
 
 *Learning in public — one commit at a time.*
 
-<img src="assets/footer.svg" width="100%" alt="Neon wireframe footer"/>
+<img src="footer.svg" width="100%" alt="Neon wireframe footer"/>
 
 </div>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Neon wireframe footer">
+<rect width="1200" height="120" fill="#0A0D12"/>
+<g fill="none" stroke="#123D43" stroke-width="1">
+<path d="M0 105L45 83L90 97L135 60L180 87L225 45L270 80L315 53L360 92L405 65L450 96L495 72L540 99L585 77L630 98L675 63L720 91L765 48L810 82L855 59L900 96L945 43L990 81L1035 54L1080 92L1125 63L1200 88"/>
+<path d="M0 115L60 95L120 110L180 78L240 103L300 72L360 108L420 84L480 110L540 89L600 112L660 80L720 106L780 70L840 103L900 83L960 108L1020 68L1080 104L1140 81L1200 101"/>
+</g>
+<path d="M0 119H1200" stroke="#00F5A0" opacity=".65"/>
+<text x="600" y="36" fill="#00F5A0" text-anchor="middle" font-family="monospace" font-size="13" letter-spacing="3">END OF FILE</text>
+<text x="600" y="65" fill="#C7D5E0" text-anchor="middle" font-family="monospace" font-size="15">Thanks for scrolling. See you in the next commit.</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Aditya Anand, developer profile">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070A0E"/><stop offset="1" stop-color="#0B1520"/></linearGradient>
+ <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00F5A0"/><stop offset=".55" stop-color="#61DAFB"/><stop offset="1" stop-color="#FF6AD5"/></linearGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#17303C" stroke-width=".7"/></pattern>
+</defs>
+<rect width="1200" height="330" rx="14" fill="url(#bg)"/><rect width="1200" height="330" rx="14" fill="url(#grid)" opacity=".7"/>
+<rect x="1" y="1" width="1198" height="328" rx="13" fill="none" stroke="#21404D"/>
+<path d="M24 54H1176" stroke="#21404D"/><circle cx="28" cy="28" r="5" fill="#FF6B6B"/><circle cx="46" cy="28" r="5" fill="#FFD166"/><circle cx="64" cy="28" r="5" fill="#00F5A0"/>
+<text x="88" y="33" fill="#8EA5B7" font-family="monospace" font-size="15">anandaditya6626-debug / README.md</text>
+<text x="1170" y="33" text-anchor="end" fill="#00F5A0" font-family="monospace" font-size="14">[ BUILD · LEARN · CREATE ]</text>
+<text x="54" y="110" fill="#00F5A0" font-family="monospace" font-size="20">&gt;_ HELLO, WORLD.</text>
+<text x="50" y="174" fill="#E6F1FF" font-family="monospace" font-size="53" font-weight="700" letter-spacing="1">ADITYA ANAND</text>
+<rect x="54" y="193" width="590" height="3" rx="1.5" fill="url(#glow)"/>
+<text x="54" y="230" fill="#C7D5E0" font-family="monospace" font-size="19">Computer Science &amp; Design · Class of 2029</text>
+<text x="54" y="262" fill="#8EA5B7" font-family="monospace" font-size="16">CYBERSECURITY  /  DATA  /  AI &amp; ML</text>
+<text x="54" y="300" fill="#00F5A0" font-family="monospace" font-size="14">small projects. bigger ideas.</text>
+<g transform="translate(850 78)" fill="none" stroke="url(#glow)" stroke-width="1.5">
+ <path d="M0 0H250V190H0Z" opacity=".7"/><path d="M20 20H230V170H20Z" opacity=".5"/>
+ <path d="M45 55L80 85L45 115M100 115H155" stroke-linecap="round" stroke-linejoin="round"/>
+ <circle cx="175" cy="55" r="24"/><path d="M175 39V71M159 55H191"/>
+ <path d="M35 145H215" stroke-dasharray="4 7"/>
+</g>
+<text x="975" y="294" text-anchor="middle" fill="#738397" font-family="monospace" font-size="12">[ STATUS: LEARNING IN PUBLIC ]</text>
+</svg>
